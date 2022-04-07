@@ -9,7 +9,7 @@
 <br>
 
 #### ① ROS のインストール
-#### terminal(端末)で以下のコマンドを入力し、必要なライブラリをインストールしてください
+&emsp; terminal(端末)で以下のコマンドを入力し、必要なライブラリをインストールしてください
 
 <br>
 
@@ -40,4 +40,4 @@ rosdep update
 <br>
 
 #### ② VS Code のインストール
-#### [参考サイト](https://mebee.info/2020/03/18/post-7546/?msclkid=63cbc7f7b6aa11ec8066633e25ee0314)通りにインストールしてください
+&emsp; [参考サイト](https://mebee.info/2020/03/18/post-7546/?msclkid=63cbc7f7b6aa11ec8066633e25ee0314) 通りにインストールしてください
