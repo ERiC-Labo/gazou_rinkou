@@ -40,4 +40,4 @@ rosdep update
 <br>
 
 ##### 2. VS Code のインストール
-##### [参考サイト](https://mebee.info/2020/03/18/post-7546/?msclkid=63cbc7f7b6aa11ec8066633e25ee0314)左記ページ通りにインストールしてください
+##### [参考サイト](https://mebee.info/2020/03/18/post-7546/?msclkid=63cbc7f7b6aa11ec8066633e25ee0314)　通りにインストールしてください
